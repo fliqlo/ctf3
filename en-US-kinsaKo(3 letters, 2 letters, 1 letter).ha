@@ -9,3 +9,6 @@
 var(3+2+1) = whoami
 
 flag = var(3+2+1)
+
+Submit the flag here:
+https://forms.gle/KeVnCDSQoyEZ6qDfA
